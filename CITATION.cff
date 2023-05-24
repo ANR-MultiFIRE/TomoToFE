@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cheikh Sleiman"
+  given-names: "Hani"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Moreira"
+  given-names: "Murilo Henrique"
+  orcid: "0000-0002-2591-4760"
+- family-names: "Dal Pont"
+  given-names: "Stefano"
+  orcid: "0000-0002-0348-5918"
+title: "supp_code_mesoscale_mesh"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-04-25
+url: "https://github.com/MuriloHMoreira/supp_code_mesoscale_mesh"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Cheikh Sleiman"
+    given-names: "Hani"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Moreira"
+    given-names: "Murilo Henrique"
+    orcid: "0000-0002-2591-4760"
+  - family-names: "Dal Pont"
+    given-names: "Stefano"
+    orcid: "0000-0002-0348-5918"
+  doi: "10.0000/00000"
+  journal: "Journal Title"
+  month: 9
+  start: 1 # First page number
+  end: 10 # Last page number
+  title: "My awesome research software"
+  issue: 1
+  volume: 1
+  year: 2023
