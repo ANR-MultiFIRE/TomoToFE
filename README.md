@@ -14,7 +14,7 @@ Supplementary code to "Proposed Workflow for Real Mesoscale Meshes: From Neutron
 # License
 [GPL](https://github.com/MuriloHMoreira/supp_code_mesoscale_mesh/blob/master/LICENSE)
 
-Supplementary code to "Proposed Workflow for Real Mesoscale Meshes: From Neutron Tomography Images to Numerical Simulation Results". Copyright (C) 2023 Murilo Henrique Moreira.
+Supplementary code to "Proposed Workflow for Real Mesoscale Meshes: From Neutron Tomography Images to Numerical Simulation Results". Copyright (C) 2023 Hani Cheikh Sleiman.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
