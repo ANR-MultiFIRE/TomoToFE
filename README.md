@@ -13,7 +13,6 @@ Supplementary code to "Proposed Workflow for Real Mesoscale Meshes: From Neutron
 - [PyVista](https://docs.pyvista.org/)
 - [Gmsh 4.9.5+](https://gmsh.info/)
 - [meshio](https://github.com/nschloe/meshio)
-- [FEniCS 2019.1](https://fenicsproject.org/download/archive/)
 
 # License
 [GPL](https://github.com/TomoToFE/supp_code_mesoscale_mesh/blob/master/LICENSE)
