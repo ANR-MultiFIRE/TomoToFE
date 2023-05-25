@@ -16,7 +16,7 @@ Supplementary code to "Proposed Workflow for Real Mesoscale Meshes: From Neutron
 - [FEniCS 2019.1](https://fenicsproject.org/download/archive/)
 
 # License
-[GPL](https://github.com/MuriloHMoreira/supp_code_mesoscale_mesh/blob/master/LICENSE)
+[GPL](https://github.com/TomoToFE/supp_code_mesoscale_mesh/blob/master/LICENSE)
 
 Supplementary code to "Proposed Workflow for Real Mesoscale Meshes: From Neutron Tomography Images to Numerical Simulation Results". Copyright (C) 2023 Hani Cheikh Sleiman, Murilo Henrique Moreira and Stefano Dal Pont.
 
