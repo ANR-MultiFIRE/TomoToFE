@@ -3,10 +3,10 @@ Supplementary code to "Proposed Workflow for Real Mesoscale Meshes: From Neutron
 
 
 # Dependencies
-## Workflow 1 - Matlab Based Apprroach
+## Workflow 1 - Matlab Based Approach
 ...
 
-## Workflow 2 - Python Based Apprroach
+## Workflow 2 - Python Based Approach
 - [Python 3.6+](https://www.python.org/)
 - [NumPy](https://www.numpy.org)
 - [spam](https://ttk.gricad-pages.univ-grenoble-alpes.fr/spam/index.html)
