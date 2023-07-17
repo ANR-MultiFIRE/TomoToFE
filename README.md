@@ -4,7 +4,10 @@ Supplementary code to "Proposed Workflow for Real Mesoscale Meshes: From Neutron
 
 # Dependencies
 ## Workflow 1 - Matlab Based Approach
-...
+- [Matlab](https://www.mathworks.com/products/matlab.html)
+- [Python 3.6+](https://www.python.org/)
+- [GIBBON](https://www.gibboncode.org/)
+- [meshio](https://github.com/nschloe/meshio)
 
 ## Workflow 2 - Python Based Approach
 - [Python 3.6+](https://www.python.org/)
