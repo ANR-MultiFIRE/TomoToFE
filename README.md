@@ -17,7 +17,7 @@ Supplementary code to "Proposed Workflow for Real Mesoscale Meshes: From Neutron
 - [Gmsh 4.9.5+](https://gmsh.info/)
 - [meshio](https://github.com/nschloe/meshio)
 
-**\*Observation:** For Workflow 2, open the file [`Workflow2-Python.ipynb`](https://github.com/TomoToFE/supp_code_mesoscale_mesh/blob/main/workflow2/Workflow2-Python.ipynb) using a Jupyter Notebook, [nteract](https://nteract.io/), [Google Colab](https://colab.research.google.com/?utm_source=scs-index), or any other compatible editor.
+**\*Observation:** For Workflow 2, open the file [`Workflow2-Python.ipynb`](https://github.com/TomoToFE/supp_code_mesoscale_mesh/blob/main/workflow2/Workflow2-Python.ipynb) using a Jupyter Notebook, [nteract](https://nteract.io/), [Google Colab](https://colab.research.google.com/?utm_source=scs-index), or any other compatible editor. For beginer users we recomend the following [quickstart guide](https://jupyter-notebook-beginner-guide.readthedocs.io).
 
 # License
 [GPL](https://github.com/TomoToFE/supp_code_mesoscale_mesh/blob/master/LICENSE)
